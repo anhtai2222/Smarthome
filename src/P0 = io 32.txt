@@ -1,0 +1,14 @@
+P0 =io 32
+p1 = io 33
+p2 = io 27
+p3 = io 2
+p4 = io 15
+p6 = io 12
+p10 = io 26
+p12 = io 13
+p13 = io 18
+p14 = io 19
+p15 = io 23
+p16 = io 13
+p19(sda) = io 21
+p20(scl) = io 22
